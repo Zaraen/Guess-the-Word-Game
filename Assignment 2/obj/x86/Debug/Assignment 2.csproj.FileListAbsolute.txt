@@ -1,0 +1,22 @@
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form1.resources
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form2.resources
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.exe
+c:\users\owner\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form3.resources
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.exe
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form1.resources
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form2.resources
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Form3.resources
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment_2.Properties.Resources.resources
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.csproj.GenerateResource.Cache
+F:\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+F:\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+F:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
+G:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.exe
+G:\Assignment 2\Assignment 2\obj\x86\Debug\Assignment 2.pdb
